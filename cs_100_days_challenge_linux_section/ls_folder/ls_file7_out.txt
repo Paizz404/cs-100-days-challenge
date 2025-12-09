@@ -1,0 +1,6 @@
+total 4
+4 drwxrwxr-x 2 pai pai 4096 Nov 15 15:23 ABC
+0 -rw-rw-r-- 1 pai pai    0 Nov 16 13:08 ls_file7_out.txt
+0 -rw-rw-r-- 1 pai pai    0 Nov 15 15:24 text4.txt
+0 -rw-rw-r-- 1 pai pai    0 Nov 15 15:24 text5.java
+0 -rw-rw-r-- 1 pai pai    0 Nov 15 15:24 text6.png

@@ -1,0 +1,299 @@
+    1  history
+    2  ls
+    3  clear
+    4  date
+    5  clar
+    6  clear
+    7  date
+    8  history
+    9  date
+   10  ls
+   11  ls Downloads/
+   12  ls /home/pai/Downloads/
+   13  pwd
+   14  ls /
+   15  ls ~
+   16  clear
+   17  ls ..
+   18  cd /home/pai/Downloads
+   19  cd ..
+   20  cd Downloads/
+   21  cd ../
+   22  cd Downloads/
+   23  cd ../..
+   24  ls
+   25  cd pai
+   26  ls -l
+   27  ls -a
+   28  ls -al
+   29  ls -ls
+   30  ls -als
+   31  cd Documents
+   32  mkdir ABC
+   33  cd ABC
+   34  touch text.txt text1.txt text2.txt text3.txt
+   35  ls
+   36  cd ..
+   37  touch text4.txt text5.java text6.png
+   38  ls
+   39  cd ~
+   40  ls Documents/*.txt
+   41  cd Documents/ABC/
+   42  ls &.txt
+   43  cd ..
+   44  ls Documents/*.txt
+   45  Documents/ABC/*.txt
+   46  cd Documents
+   47  ls ABC/*.txt
+   48  cd ..
+   49  ls Documents/*.*
+   50  ls *.txt
+   51  ls -lh
+   52  ls -ls
+   53  ls -lt
+   54  history
+   55  pwd
+   56  ls
+   57  ls *.txt
+   58  ls /*.txt
+   59  ls *.*.txt
+   60  history
+   61  ls Documents/*.*
+   62  clear
+   63  ping www.google.com
+   64  sudo ping www.google.com
+   65  clear
+   66  sudo apt search bursuit
+   67  clear
+   68  pwd
+   69  cd Desktop
+   70  ls
+   71  cd ..
+   72  cd Documents
+   73  ls
+   74  ls -ls >ls_file7_out.txt
+   75  ls
+   76  cat ls_file7_out.txt
+   77  ls -d */
+   78  mkdir EFG
+   79  ls
+   80  ls -d */
+   81  cd ~
+   82  cd Documents
+   83  mkdir folder{1,2}
+   84  ls
+   85  ls -d folder{1,2}
+   86  man ls
+   87  touch ls_file_day6.txt
+   88  date >ls_file_day6.text
+   89  cat ls_file_day6.txt
+   90  rm ls_file_day6.text
+   91  ls
+   92  date >ls_file_day6.txt
+   93  cat ls_file_day6.txt
+   94  history >> ls_file_day6.txt
+   95  cat ls_file_day6.txt
+   96  cd ~
+   97  cd Documents
+   98  ls -l
+   99  ls -l >> ls_file_day6.txt
+  100  cat ls_file_day6.txt
+  101  ls -l
+  102  cd Desktop
+  103  ls
+  104  cd cs_100_days_challenge/
+  105  ls
+  106  cd command_histries/
+  107  ls
+  108  cd ..
+  109  rm day7.txt command_histries/
+  110  cp day7.txt command_histries/
+  111  mv day7.txt command_histries/
+  112  clear
+  113  history
+  114  cd Desktop/
+  115  cd cs_
+  116  cd cs_100_days_challenge/
+  117  ls
+  118  history > day7.txt
+  119  ls
+  120  cp day7.txt day7.txt command_histries/
+  121  cd Desktop/cs_100_days_challenge/command_histries/
+  122  ls
+  123  cat day7.txt
+  124  date >> day7.txt
+  125  cat day7.txt
+  126  clear
+  127  ls
+  128  cd ..
+  129  ls
+  130  rm My\Folder
+  131  rm My\ Folder
+  132  rmdir My\ Folder
+  133  ls
+  134  clear
+  135  ls
+  136  mkdir mkdir_folder
+  137  ls
+  138  mkdir 'My Project
+  139  ls
+  140  sudo
+  141  sudo apt update
+  142  clear
+  143  cd Desktop/cs_100_days_challenge/command_histries/
+  144  ls
+  145  cd @
+  146  cd ~
+  147  clear
+  148  history
+  149  clear
+  150  sudo adduser peter
+  151  su peter
+  152  sudo su peter
+  153  deluser peter
+  154  sudo deluser peter
+  155  clear
+  156  su peter
+  157  sudo deluser peter
+  158  sudo killall -u peter
+  159  sudo deluser peter
+  160  ip
+  161  ip -h
+  162  ip-h
+  163  ipconfig
+  164  sudo apt install deb name
+  165  clear
+  166  my ip
+  167  ip --help
+  168  hostname -I
+  169  ifconfig
+  170  ip a
+  171  host --help
+  172  host -4
+  173  ip -help
+  174  ifconfig
+  175  sudo apt install net-tools
+  176  ifconfig
+  177  cd/
+  178  cd~
+  179  cd ~
+  180  cd /
+  181  sudo i
+  182  sudo -i
+  183  pwd
+  184  # exit
+  185  su -pai
+  186  cd Desktop/cs_100_days_challenge/
+  187  ls
+  188  cat cs_file.txt 
+  189  cd cp_folder/
+  190  ls
+  191  cp ../cs_file.txt .
+  192  ls
+  193  cd ..
+  194  ls
+  195  rm cs_file.txt 
+  196  ls
+  197  mkdri mv_folder
+  198  mkdir mv_folder
+  199  touch mv_test_file1.txt
+  200  cd mv_folder/
+  201  ls
+  202  cat >> mv_test_file1.txt 
+  203  mv mv_test_file1.txt mv_file1.txt
+  204  ls
+  205  cat mv_file1.txt 
+  206  mkdir mv_dir
+  207  mv mv_file1.txt mv_dir/
+  208  ls
+  209  cat mv_dir/mv_file1.txt 
+  210  ls
+  211  cat > mv_file1.txt
+  212  ls
+  213  ls -R
+  214  mv mv_file1.txt mv_dir/
+  215  cat mv_dir/mv_file1.txt 
+  216  ls -R
+  217  date >> mv_file1.txt
+  218  clear
+  219  ls -R
+  220  mv -i mv_file1.txt mv_dir/
+  221  cat mv_file1.txt 
+  222  cat mv_dir/mv_file1.txt 
+  223  mkdir mv_dir2
+  224  ls
+  225  mv mv_dir mv_dir1
+  226  ls
+  227  mv mv_dir1/ mg_dir2/
+  228  ls -R
+  229  ls
+  230  rmdir mg_dir2/
+  231  rmdir -p mg_dir2
+  232  rmdir mg_dir2
+  233  history
+  234  rm mg_dir2/
+  235  rmdir mg_dir2
+  236  rmdir -r mg_dir2
+  237  rmdir -R mg_dir2
+  238  rmdir --help
+  239  rmdir -mg_dir2
+  240  ls
+  241  rmdir -p mg_dir2/
+  242  rmdir -i mg_dir2
+  243  rmdir -p mg_dir2/
+  244  rmdir -p mg_dir2
+  245  rmdir -pv mg_dir2/
+  246  rmdir -p mg_dir2/mv_file1.txt
+  247  rmdir -p mg_dir2/mg_file1.txt
+  248  rmdir -p mg_dir2/mv_file1.txt
+  249  ls
+  250  rmdir -p mg_dir2/mv_file1.txt
+  251  rm -p mg_dir2/mv_file1.txt
+  252  rmdir -p mg_dir2/
+  253  cd mg_dir2/
+  254  rm mv_file1.txt 
+  255  cd ..
+  256  rmdir mg_dir2/
+  257  ls
+  258  mkdir mv_dir1
+  259  ls
+  260  mv mv_dir1/ mv_dir2/
+  261  ls
+  262  ls -R
+  263  tree
+  264  mv mv_dir2/ mc_dir3/
+  265  ls
+  266  ls mv_dir3/
+  267  mv mc_dir3/ mv_dir3/
+  268  ls
+  269  ls mv_dir3/
+  270  touch mv_file2.txt mv_file3.txt
+  271  ls
+  272  mv mv_file2.txt mv_file3.txt mv_dir3/
+  273  ls mv_dir3/
+  274  ls
+  275  mv mv_file1.txt mv_dir3/
+  276  ls
+  277  cd mv_dir3/
+  278  ls
+  279  *../
+  280  *..
+  281  * ..
+  282  ls
+  283  mv * ..
+  284  ls
+  285  cd ..
+  286  ls
+  287  mkdir mv_dir4
+  288  ls
+  289  mv mv_dir3/* mv_dir4/
+  290  touch mv_dir3/mv_dir3_file1.txt mv_dir3/mv_dir3_file2.txt
+  291  ls mv_dir3/
+  292  mv mv_dir3/* mv_dir4/
+  293  tree
+  294  touch ../cd command_hisotries/day11.txt
+  295  cd ..
+  296  cd command_histries/
+  297  ls
+  298  history > day11.txt
+Fri Nov 21 11:03:32 AM UTC 2025

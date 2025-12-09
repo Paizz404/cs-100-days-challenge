@@ -1,0 +1,6 @@
+total 16
+-rw-rw-r-- 1 pai pai  32 Nov 17 07:31 cat_file1.txt
+-rw-rw-r-- 1 pai pai  31 Nov 17 07:32 cat_file2.txt
+-rw-rw-r-- 1 pai pai  77 Nov 17 10:35 cat_file3.txt
+-rw-rw-r-- 1 pai pai 108 Nov 17 10:42 cat_file_combined.txt
+-rw-rw-r-- 1 pai pai   0 Nov 17 10:43 file9.txt

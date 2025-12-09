@@ -1,0 +1,119 @@
+    1  history
+    2  ls
+    3  clear
+    4  date
+    5  clar
+    6  clear
+    7  date
+    8  history
+    9  date
+   10  ls
+   11  ls Downloads/
+   12  ls /home/pai/Downloads/
+   13  pwd
+   14  ls /
+   15  ls ~
+   16  clear
+   17  ls ..
+   18  cd /home/pai/Downloads
+   19  cd ..
+   20  cd Downloads/
+   21  cd ../
+   22  cd Downloads/
+   23  cd ../..
+   24  ls
+   25  cd pai
+   26  ls -l
+   27  ls -a
+   28  ls -al
+   29  ls -ls
+   30  ls -als
+   31  cd Documents
+   32  mkdir ABC
+   33  cd ABC
+   34  touch text.txt text1.txt text2.txt text3.txt
+   35  ls
+   36  cd ..
+   37  touch text4.txt text5.java text6.png
+   38  ls
+   39  cd ~
+   40  ls Documents/*.txt
+   41  cd Documents/ABC/
+   42  ls &.txt
+   43  cd ..
+   44  ls Documents/*.txt
+   45  Documents/ABC/*.txt
+   46  cd Documents
+   47  ls ABC/*.txt
+   48  cd ..
+   49  ls Documents/*.*
+   50  ls *.txt
+   51  ls -lh
+   52  ls -ls
+   53  ls -lt
+   54  history
+   55  pwd
+   56  ls
+   57  ls *.txt
+   58  ls /*.txt
+   59  ls *.*.txt
+   60  history
+   61  ls Documents/*.*
+   62  clear
+   63  ping www.google.com
+   64  sudo ping www.google.com
+   65  clear
+   66  sudo apt search bursuit
+   67  clear
+   68  pwd
+   69  cd Desktop
+   70  ls
+   71  cd ..
+   72  cd Documents
+   73  ls
+   74  ls -ls >ls_file7_out.txt
+   75  ls
+   76  cat ls_file7_out.txt
+   77  ls -d */
+   78  mkdir EFG
+   79  ls
+   80  ls -d */
+   81  cd ~
+   82  cd Documents
+   83  mkdir folder{1,2}
+   84  ls
+   85  ls -d folder{1,2}
+   86  man ls
+   87  touch ls_file_day6.txt
+   88  date >ls_file_day6.text
+   89  cat ls_file_day6.txt
+   90  rm ls_file_day6.text
+   91  ls
+   92  date >ls_file_day6.txt
+   93  cat ls_file_day6.txt
+   94  history >> ls_file_day6.txt
+   95  cat ls_file_day6.txt
+   96  cd ~
+   97  cd Documents
+   98  ls -l
+   99  ls -l >> ls_file_day6.txt
+  100  cat ls_file_day6.txt
+  101  ls -l
+  102  cd Desktop
+  103  ls
+  104  cd cs_100_days_challenge/
+  105  ls
+  106  cd command_histries/
+  107  ls
+  108  cd ..
+  109  rm day7.txt command_histries/
+  110  cp day7.txt command_histries/
+  111  mv day7.txt command_histries/
+  112  clear
+  113  history
+  114  cd Desktop/
+  115  cd cs_
+  116  cd cs_100_days_challenge/
+  117  ls
+  118  history > day7.txt
+Tue Nov 18 07:50:43 AM UTC 2025
